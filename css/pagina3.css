@@ -1,0 +1,57 @@
+*{
+	box-sizing: border-box;
+	font-size: 17px; 
+	background-color: black;
+}
+h2 {
+	text-align: center;
+	font-size:50px;
+	color: white;
+}
+p {
+	color: white;
+	vertical-align: text-bottom;
+}
+
+#logo {
+	margin: 5px;
+	padding: 10px 390px;
+	
+}
+#menu {
+    text-align: center;
+    padding: 10px 0;
+}
+#menu a {
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+    padding: 10px 89px;
+}
+#menu a:hover {
+    background: #000;
+    color: #FFF; 
+}
+#Personajes {
+	padding: 50px 0;
+}
+#Personajes {
+	width: 100%;
+}
+#Personajes table td {
+	text-align:center;
+	color: #FFC500;
+	padding-top: 50px;
+	font-size: 20px;
+}
+#Personajes table img {
+	width: 300px;
+	height: auto;
+	margin-left: 150px;
+}
+
+
+
+
+
+

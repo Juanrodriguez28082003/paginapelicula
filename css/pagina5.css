@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+	font-size: 17px; 
+	background-color: black	;
+}
+h2 {
+	text-align: center;
+	font-size:55px;
+	color: white;
+}
+#logo {
+    margin: 5px;
+	padding: 10px 390px;
+}
+#menu {
+    text-align: center;
+    padding: 10px 0;
+}
+#menu a {
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+    padding: 10px 89px;
+}
+#menu a:hover {
+    background: #000;
+    color: #FFF; 
+}
+#desarrollo {
+	margin-left: 700px;
+	width: 900px;
+}
+P {
+	color: white;
+	text-align: center;
+	padding: 10px 400px;
+	margin: 50px;
+}
